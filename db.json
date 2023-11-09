@@ -1,0 +1,100 @@
+{
+  "Car": [
+    {
+      "brand": "TOYOTA",
+      "model": "Vios",
+      "year": "2012",
+      "color": "Red",
+      "image": "https://source.unsplash.com/random/200x200/?car",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "brand": "HONDA",
+      "model": "Civic",
+      "year": "2015",
+      "color": "blue",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 3,
+      "brand": "FORD",
+      "model": "Mustang",
+      "year": "2020",
+      "color": "red",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 4,
+      "brand": "CHEVROLET",
+      "model": "Malibu",
+      "year": "2018",
+      "color": "silver",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 5,
+      "brand": "BMW",
+      "model": "X5",
+      "year": "2019",
+      "color": "black",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 6,
+      "brand": "MERCEDES",
+      "model": "E-Class",
+      "year": "2017",
+      "color": "gray",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 7,
+      "brand": "AUDI",
+      "model": "A4",
+      "year": "2016",
+      "color": "green",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 8,
+      "brand": "LEXUS",
+      "model": "RX",
+      "year": "2019",
+      "color": "white",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 9,
+      "brand": "TESLA",
+      "model": "Model S",
+      "year": "2021",
+      "color": "blue",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "id": 10,
+      "brand": "JEEP",
+      "model": "Wrangler",
+      "year": "2022",
+      "color": "orange",
+      "image": "https://source.unsplash.com/random/200x200/?car"
+    },
+    {
+      "brand": "Ford ",
+      "model": "Everest",
+      "year": "2023",
+      "color": "Black",
+      "image": "https://source.unsplash.com/random/200x200/?car",
+      "id": 11
+    },
+    {
+      "brand": "Ford ",
+      "model": "Raptor",
+      "year": "2023",
+      "color": "Orange",
+      "image": "https://source.unsplash.com/random/200x200/?car",
+      "id": 12
+    }
+  ]
+}
