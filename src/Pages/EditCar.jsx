@@ -130,20 +130,6 @@ const EditCar = () => {
                       />
                     </div>
                   </div>
-                  <div className="col-lg-12">
-                    <div className="form-group">
-                      <label htmlFor="name">Image</label>
-                      <input
-                        type="type"
-                        required
-                        name="image"
-                        id="image"
-                        value={car.image}
-                        onChange={handleChange}
-                        className="form-control"
-                      />
-                    </div>
-                  </div>
                   
             
                   <div className="col-lg-12">
